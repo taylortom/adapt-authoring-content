@@ -1,0 +1,15 @@
+{
+  "name": "adapt-authoring-content",
+  "version": "0.0.1",
+  "description": "Abstract module for Adapt content",
+  "main": "index.js",
+  "adapt_authoring": {
+    "documentation": {
+      "enable": true,
+      "includes": {
+        "source": "lib/*",
+        "docs": "docs/*"
+      }
+    }
+  }
+}
