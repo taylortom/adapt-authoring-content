@@ -12,5 +12,8 @@
         "docs": "docs/*"
       }
     }
+  },
+  "dependencies": {
+    "adapt-authoring-api": "git+https://github.com/taylortom/adapt-authoring-api.git"
   }
 }
