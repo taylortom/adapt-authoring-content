@@ -1,0 +1,20 @@
+{
+  "name": "adapt-authoring-content",
+  "version": "0.0.1",
+  "description": "Module for managing Adapt content",
+  "homepage": "https://github.com/taylortom/adapt-authoring-content",
+  "main": "index.js",
+  "adapt_authoring": {
+    "module": true,
+    "moduleDependencies": [
+      "adapt-authoring-mongodb"
+    ],
+    "documentation": {
+      "enable": true
+    }
+  },
+  "peerDependencies": {
+    "adapt-authoring-api": "git+https://github.com/taylortom/adapt-authoring-api.git",
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
+  }
+}
