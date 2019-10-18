@@ -1,6 +1,6 @@
 const contentModule = require('./lib/contentModule');
-const contentApiModule = require('./lib/contentApiModule');
+const abstractContentApiModule = require('./lib/abstractContentApiModule');
 module.exports = {
   Module: contentModule,
-  ContentApiModule: contentApiModule
+  AbstractContentApiModule: abstractContentApiModule
 };
