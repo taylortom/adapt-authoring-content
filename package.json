@@ -6,7 +6,7 @@
   "license": "GPL-3.0",
   "type": "module",
   "main": "index.js",
-  "repository": "adaptlearning/adapt-authoring-content",
+  "repository": "github:adapt-security/adapt-authoring-content",
   "peerDependencies": {
     "adapt-authoring-api": "github:adapt-security/adapt-authoring-api",
     "adapt-authoring-contentplugin": "github:adapt-security/adapt-authoring-contentplugin",
