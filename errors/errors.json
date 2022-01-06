@@ -1,0 +1,13 @@
+{
+  "INVALID_PARENT": {
+    "data": {
+      "parentId": "_id of the parent item"
+    },
+    "description": "Specified item is not a valid content item Invalid parent itemparent",
+    "statusCode": 500
+  },
+  "UNKNOWN_SCHEMA_NAME": {
+    "description": "Failed to determine schema name",
+    "statusCode": 500
+  }
+}
