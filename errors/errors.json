@@ -7,6 +7,11 @@
     "statusCode": 500
   },
   "UNKNOWN_SCHEMA_NAME": {
+    "data": {
+      "_id": "The database _id",
+      "_type": "The _type value",
+      "_component": "The _component value"
+    },
     "description": "Failed to determine schema name",
     "statusCode": 500
   }
