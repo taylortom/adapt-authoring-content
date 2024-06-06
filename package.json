@@ -9,7 +9,7 @@
   "repository": "github:adapt-security/adapt-authoring-content",
   "peerDependencies": {
     "adapt-authoring-api": "github:adapt-security/adapt-authoring-api",
-    "adapt-authoring-contentplugin": "github:adapt-security/adapt-authoring-contentplugin",
+    "adapt-authoring-contentplugin": "github:taylortom/adapt-authoring-contentplugin",
     "adapt-authoring-core": "github:adapt-security/adapt-authoring-core"
   },
   "devDependencies": {
